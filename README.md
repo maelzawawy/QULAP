@@ -15,18 +15,38 @@ A text file that contains energy readings extracted from the results of Omnet++ 
 
 A compressed ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the second scenario of the QULAP Practicability section of the paper.
 
+### S2-Energy Consumption.txt
+
+A text file that contains energy readings extracted from the results of Omnet++ implementation (equipped with Inet) for the second scenario of the QULAP Practicability section of the paper.
+
 ### S3.rar
 
 A compressed ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the third scenario of the QULAP Practicability section of the paper.
+
+### S3-Energy Consumption.txt
+
+A text file that contains energy readings extracted from the results of Omnet++ implementation (equipped with Inet) for the third scenario of the QULAP Practicability section of the paper.
 
 ### S4.rar
 
 A compressed ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the fourth scenario of the QULAP Practicability section of the paper.
 
+### S4-Energy Consumption.txt
+
+A text file that contains energy readings extracted from the results of Omnet++ implementation (equipped with Inet) for the fourth scenario of the QULAP Practicability section of the paper.
+
 ### S5.rar
 
 A compressed ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the fifth scenario of the QULAP Practicability section of the paper.
 
+### S5-Energy Consumption.txt
+
+A text file that contains energy readings extracted from the results of Omnet++ implementation (equipped with Inet) for the fifth scenario of the QULAP Practicability section of the paper.
+
 ### S6.rar
 
 A compressed ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the last scenario of the QULAP Practicability section of the paper.
+
+### S5-Energy Consumption.txt
+
+A text file that contains energy readings extracted from the results of Omnet++ implementation (equipped with Inet) for the last scenario of the QULAP Practicability section of the paper.
