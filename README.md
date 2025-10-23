@@ -7,6 +7,10 @@ This repository contains result files related to our paper "QULAP: Quantum-Safe 
 
 A compressed ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the first scenario of the QULAP Practicability section of the paper.
 
+### S1-Energy Consumption.txt
+
+A text file that contains energy readings extracted from the results of Omnet++ implementation (equipped with Inet) for the first scenario of the QULAP Practicability section of the paper.
+
 ### S2.rar
 
 A compressed ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the second scenario of the QULAP Practicability section of the paper.
