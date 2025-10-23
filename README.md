@@ -5,4 +5,24 @@ This repository contains result files related to our paper "QULAP: Quantum-Safe 
 
 ### S1.rar
 
-A .out file contains the results of Omnet++ Inet results of senario S1 in the paper.
+A ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the first scenario of the QULAP Practicability section of the paper.
+
+### S2.rar
+
+A ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the second scenario of the QULAP Practicability section of the paper.
+
+### S3.rar
+
+A ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the third scenario of the QULAP Practicability section of the paper.
+
+### S4.rar
+
+A ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the fourth scenario of the QULAP Practicability section of the paper.
+
+### S5.rar
+
+A ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the fifth scenario of the QULAP Practicability section of the paper.
+
+### S6.rar
+
+A ".out" file that contains the results of Omnet++ implementation (equipped with Inet) for the last scenario of the QULAP Practicability section of the paper.
